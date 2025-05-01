@@ -4,5 +4,5 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/product_service_prod_db
-    username: myuser
-    password: mypass
+    username: postgres
+    password: root
