@@ -6,3 +6,4 @@ spring:
     url: jdbc:postgresql://localhost:5432/product_service_prod_db
     username: postgres
     password: root
+    driver-class-name: org.postgresql.Driver
